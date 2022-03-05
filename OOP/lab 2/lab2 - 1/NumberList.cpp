@@ -1,5 +1,6 @@
 #include "Numberlist.h"
 #include <iostream>
+
 void NumberList::Init()
 {
     this->count = 0;

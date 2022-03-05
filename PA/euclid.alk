@@ -1,0 +1,17 @@
+Euclid(a,b)
+{
+    while(a!=b)
+    {
+        if(a<b)
+        {
+            b=b-a;
+        }
+        else
+        {
+            a=a-b;
+        }
+        
+    }
+    return a;
+}
+b= Euclid{10,5};

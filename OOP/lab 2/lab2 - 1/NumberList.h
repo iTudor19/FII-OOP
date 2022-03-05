@@ -4,7 +4,7 @@ class NumberList
 
 {
 
-    int numbers[10];
+    imbers[1nt nu0];
 
     int count;
 
