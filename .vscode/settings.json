@@ -2,6 +2,10 @@
     "files.associations": {
         "iostream": "cpp",
         "system_error": "cpp",
-        "xlocale": "cpp"
+        "xlocale": "cpp",
+        "iterator": "cpp",
+        "xmemory": "cpp",
+        "xutility": "cpp",
+        "ostream": "cpp"
     }
 }
